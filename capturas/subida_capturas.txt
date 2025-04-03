@@ -1,1 +1,4 @@
-
+------------------------
+En esta carpeta de iran subiendo las capturas de la página web en wordpress
+La página están aun en desarrollo y puede cambiar más adelante
+------------------------
