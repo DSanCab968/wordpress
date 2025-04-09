@@ -1,14 +1,14 @@
 # wordpress
 -----------------------------------------------------------------------------
 
-Aqui se subiran las capturas de la pagina web de Sostenibilad con Wordpress
+Subida de las capturas de la página web de Agenda 2030 con Wordpress
 
 -----------------------------------------------------------------------------
 
-Fecha entrega primeras capturas: Viernes 4 de Abril 2025
+La página se encuentra completada :)
 
 -----------------------------------------------------------------------------
 
-IMPORTANTE: esta página está aun en desarrollo
+Autor: Daniel Sánchez Cabello                                      1ºASIR B
 
 -----------------------------------------------------------------------------
