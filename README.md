@@ -5,7 +5,7 @@ Subida de las capturas de la página web de Agenda 2030 con Wordpress
 
 -----------------------------------------------------------------------------
 
-La página se encuentra completada :)
+La página se encuentra completada 
 
 -----------------------------------------------------------------------------
 
